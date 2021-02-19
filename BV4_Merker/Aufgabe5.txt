@@ -1,0 +1,12 @@
+Wie ver ̈andert sich der Informationsgehalt des Bildes (die Entropie),wenn Sie
+(a)  die Helligkeit des Bildes ̈andern?
+zwischen -60 und 60 bleibt die entropie bei 6,68. Wenn die Helligkeit hoch oder niedrig gestellt wird, geht die entropie bis 0.
+(b)  den Kontrast des Bildes ̈andern?
+- bei Kontrast 1,9+ sinkt die Entropie bis 5,90
+- bei Kntrast 1.0- sinkt die Entropie bis 0
+- die Mittelwerte bleiben alle bei 6,68
+(c)  den Gamma-Wert ausgehend von 1.0 verändern?
+gamma 1+: Entropie Wert geht runter bis nach 5,84
+gamma 1-: Entropie Wert geht runter bis nach 0,87
+(d)  den Autokontrast anwenden?
+Entropie Wert ändert sich auf 6,63
